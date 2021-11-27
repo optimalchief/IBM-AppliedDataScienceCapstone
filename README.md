@@ -14,7 +14,9 @@ The commercial space age has arrived, and companies are competing to bring affor
 * [Build an Interactive Visual Analytics and Dashboard](https://github.com/optimalchief/IBM-AppliedDataScienceCapstone/blob/master/Build%20an%20Interactive%20Dashboard%20with%20Ploty%20Dash.ipynb)
 ## Week 4: Predictive Analysis (Classification)
 * [Machine Learning Prediction](https://github.com/optimalchief/IBM-AppliedDataScienceCapstone/blob/master/Predictive%20Analysis%20(Classification).ipynb)
-## Week 5: Final Presentation
+## Week 5: Applied Data Science Capstone
+* [Final Presentation](https://github.com/optimalchief/IBM-AppliedDataScienceCapstone/blob/master/IBMDataScienceCapstone.pdf)
+
 
 ## Documentation
 * [Python](https://docs.python.org/3/index.html)
