@@ -15,6 +15,7 @@ The commercial space age has arrived, and companies are competing to bring affor
 ## Week 4: Predictive Analysis (Classification)
 * [Machine Learning Prediction](https://github.com/optimalchief/IBM-AppliedDataScienceCapstone/blob/master/Predictive%20Analysis%20(Classification).ipynb)
 ## Week 5: Final Presentation
+* [Applied Data Science Capstone](https://github.com/optimalchief/IBM-AppliedDataScienceCapstone/blob/master/IBMDataScienceCapstone.pdf)
 
 ## Documentation
 * [Python](https://docs.python.org/3/index.html)
